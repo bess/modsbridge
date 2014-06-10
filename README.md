@@ -16,7 +16,7 @@ This curriculum will use the [ruby][ruby] programming language, and the [MODS ge
 
 ## Lessons ##
 
-### Make a MODS object
+### 1. [Make a MODS object](/lessons/lesson1/lesson1.md)
 
-### Test your object
+### 2. Test your object
 

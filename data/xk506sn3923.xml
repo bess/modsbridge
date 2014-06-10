@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+  <titleInfo>
+    <title>Bird’s Eye View of San Francisco and surrounding country</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Bird’s Eye View of the City of San Francisco and Surrounding Country</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Goddard, George H.</namePart>
+    <namePart type="date">1817-1906</namePart>
+    <description>English/American</description>
+  </name>
+  <name type="corporate">
+    <namePart>Snow &amp; Roos, San Francisco</namePart>
+    <role>
+      <roleTerm type="text">publisher</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Britton &amp; Rey, San Francisco</namePart>
+    <role>
+      <roleTerm type="text">lithographer</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Kennedy Gallery, New York</namePart>
+    <role>
+      <roleTerm type="text">former owner</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateIssued>1868</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <form authority="aat">Graphics</form>
+    <form>color lithograph on paper</form>
+    <note displayLabel="Dimensions">28 x 41 inches</note>
+    <note displayLabel="Condition">good; one discolored streak upper left edge </note>
+  </physicalDescription>
+  <abstract displayLabel="Description">
+View looking east across bay to Sierras with Pacific and fort in foreground, with ships leaving Golden Gate, city view and harbor in mid distance, and east bay and snow-covered mountains in distance.</abstract>
+  <identifier type="local">rd-252</identifier>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Reid W. Dennis collection of California lithographs, 1850-1906</title>
+    </titleInfo>
+    <identifier type="uri">http://purl.stanford.edu/sg213ph2100</identifier>
+    <typeOfResource collection="yes"/>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Special Collections Public Services Librarian at speccollref@stanford.edu.</accessCondition>
+  <accessCondition type="copyright">Copyright © Stanford University. All Rights Reserved.</accessCondition>
+</mods>
