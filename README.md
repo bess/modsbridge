@@ -41,7 +41,8 @@ This curriculum will use the [ruby][ruby] programming language, and the [MODS ge
 Future lessons:
 
 ### 3. Exporting MaRC into MODS:
-	- Character encoding: utf8 vs marc8 for marc to mods transformations
+	- detect character encoding: utf8 vs marc8 for marc to mods transformations
+	- change character encoding for a record
 
 ### 4. Checking for required fields:
 	- which fields are required for your local practice? 
