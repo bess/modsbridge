@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.0">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>aftermath of road accidents</title>
+      <subTitle>psychological, social and legal consequences of an everyday trauma</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Mitchell, Margaret</namePart>
+      <namePart type="date">1955-</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>Routledge</publisher>
+      <dateIssued>1997</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xvii, 261 p. : ill. ; 24 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">edited by Margaret Mitchell.</note>
+    <note>Includes bibliographical references (p. [235]-253) and index.</note>
+    <subject>
+      <geographicCode authority="marcgac">e-uk---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Traffic accidents</topic>
+      <geographic>Great Britain</geographic>
+      <topic>Psychological aspects</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Traffic accidents</topic>
+      <topic>Social aspects</topic>
+      <geographic>Great Britain</geographic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Liability for traffic accidents</topic>
+      <geographic>Great Britain</geographic>
+    </subject>
+    <classification authority="lcc">HE5614.5.G7 A65 1997</classification>
+    <classification authority="ddc" edition="20">363.12/5/0941</classification>
+    <identifier type="isbn">0415130522 (hbk.)</identifier>
+    <identifier type="isbn">0415130530 (pbk.)</identifier>
+    <identifier type="lccn">96008386</identifier>
+    <identifier type="uri">http://www.loc.gov/catdir/enhancements/fy0649/96008386-d.html</identifier>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0649/96008386-d.html</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">960416</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20060807181208.0</recordChangeDate>
+      <recordIdentifier>3523389</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Antiquity and humanity</title>
+      <subTitle>essays on ancient religion and philosophy : presented to Hans Dieter Betz on his 70th birthday</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Betz, Hans Dieter</namePart>
+      <namePart type="date">1931-</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Collins, Adela Yarbro.</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Mitchell, Margaret Mary</namePart>
+      <namePart type="date">1956-</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <genre authority="marc">festschrift</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">T?ubingen</placeTerm>
+      </place>
+      <publisher>Mohr Siebeck</publisher>
+      <dateIssued>2001</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xx, 561 p. : port. ; 24 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">edited by Adela Yarbro Collins and Margaret M. Mitchell.</note>
+    <note>"Hans Dieter Betz bibliography" (p. [501]-512).</note>
+    <note>Includes bibliographical references and indexes.</note>
+    <subject authority="lcsh">
+      <topic>Religion</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Philosophy, Ancient</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Christianity and other religions</topic>
+      <topic>Greek</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Christianity and other religions</topic>
+      <topic>Roman</topic>
+    </subject>
+    <classification authority="lcc">MLCM 2006/40382 (B)</classification>
+    <identifier type="isbn">3161475852</identifier>
+    <identifier type="lccn">2001460617</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">CGU</recordContentSource>
+      <recordCreationDate encoding="marc">011005</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20131023090318.0</recordChangeDate>
+      <recordIdentifier>12563330</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Gone with the wind</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Gone with the wind (Motion picture)</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Gable, Clark</namePart>
+      <namePart type="date">1901-1960</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Howard, Leslie</namePart>
+      <namePart type="date">1893-1943</namePart>
+    </name>
+    <name type="personal">
+      <namePart>De Havilland, Olivia.</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Leigh, Vivien</namePart>
+      <namePart type="date">1913-1967</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Fleming, Victor</namePart>
+      <namePart type="date">1883-1949</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Selznick, David O.</namePart>
+      <namePart type="date">1902-1965</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Richard L. Coe Theater Programs Collection (Library of Congress)</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="lcsh">Motion picture programs-Washington (D.C.)</genre>
+    <genre authority="rbgenr">Theater programs-Washington (D.C.)</genre>
+    <genre authority="lcsh">Motion picture programs-1939.</genre>
+    <genre authority="rbgenr">Theater programs-1939.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">xx</placeTerm>
+      </place>
+      <dateIssued>[1939]</dateIssued>
+      <dateIssued encoding="marc">1939</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>1 v. (theater program).</extent>
+    </physicalDescription>
+    <abstract>David O. Selznick's production of Margaret Mitchell's story of the Old South, "Gone With the Wind," in technicolor, starring Clark Gable as Rhett Buter, Leslie Howard, Olivia de Havilland, and presenting Vivien Leigh as Scarlett O'Hara, a Selznick International Picture, directed by Victor Fleming, screen play by Sidney Howard, music by Max Steiner, a Metro-Goldwyn-Mayer release.</abstract>
+    <note>[Release date: 17 January 1940].</note>
+    <note>Title devised by Library staff.</note>
+    <note>Cast: George Reeves, Fred Crane, Vivien Leigh, Hattie McDaniel, Everett Brown, Zack Williams, Thomas Mitchell, Oscar Polk, Barbara O'Neil, Victor Jory, Evelyn Keyes, Ann Rutherford, Butterfly McQueen, Howard Hickman, Alicia Rhett, Leslie Howard, Olivia de Havilland, Rand Brooks, Carroll Nye, Marcella Martin, Clark Gable, Laura Hope Crews, Harry Davenport, Leona Roberts, jane Darwell, Albert Morin, Mary Anderson, Terry Shero, William McClain, Eddie Anderson, Jackie Moran, Cliff Edwards, Ona Munson, Ed Chandler, George Hackathorne, Roscoe Ates, John Arledge, Eric Linden, Tom Tyler, William Bakewell, Lee Phelps, Paul Hurst, Ernest Whitman, William Stelling, Louis Jean Heydt, Isabel Jewell, Robert Elliott, George Meeker, Wallis Clark, Irving Bacon, Adrian Morris, J.M. Kerrigan, Olin Howland, Yakima Canutt, Blue Washington, Ward Bond, Cammie King, Mickey Kuhn, Lillian Kemble Cooper.</note>
+    <note>In: Richard L. Coe Collection scrap book, p. [109].</note>
+    <note>In: Richard L. Coe Theater Programs Collection (Library of Congress).</note>
+    <subject>
+      <hierarchicalGeographic>
+        <country>United States</country>
+        <state>District of Columbia</state>
+        <city>Washington</city>
+      </hierarchicalGeographic>
+    </subject>
+    <classification authority="lcc">PN2093 .C64 1995 no. G130</classification>
+    <relatedItem>
+      <titleInfo>
+        <title>Gone with the wind</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mitchell, Margaret,</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+    </relatedItem>
+    <identifier type="lccn">2010414943</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">100621</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20101119122954.0</recordChangeDate>
+      <recordIdentifier>16294701</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Gone with the wind benefit performance</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Gone with the wind (Motion picture)</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Procop?e, Hjalmar Johan Fredrik</namePart>
+      <namePart type="date">1889-1954</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Finnish Relief Fund</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Loew's Palace Theater (Organization : Washington, D.C.)</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Richard L. Coe Theater Programs Collection (Library of Congress)</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="lcsh">Motion picture programs-Washington (D.C.)</genre>
+    <genre authority="rbgenr">Playbills-Washington (D.C.)</genre>
+    <genre authority="lcsh">Motion picture programs-1940.</genre>
+    <genre authority="rbgenr">Playbills-1940.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">xx</placeTerm>
+      </place>
+      <dateIssued>1940</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>1 sheet (playbill).</extent>
+    </physicalDescription>
+    <abstract>Benefit performance "Gone With the Wind," for the suffering population of Finland, at the Palace Theatre, Washington, D.C., Saturday evening, January 27, 1940, Finnish Relief Fund, Inc., Washington Unit.</abstract>
+    <tableOfContents>Program: 8:25 p.m. Prologue. "Salute to Finland" / a voice. Scene: A narrow defile in the Arctic Wastes. Finnish national anthem. Presentation of His Excellency, Hjalmar Procope, minister of Finland. -- 8:30 p.m. Curtain. Part I: "Gone With the Wind" -- Intermission -- Part II. "Gone With the Wind".</tableOfContents>
+    <note>Palace Theatre, Washington, D.C., Saturday evening, January 27, 1940.</note>
+    <note>Title devised by Library staff.</note>
+    <note>In: Richard L. Coe Theater Programs Collection (Library of Congress).</note>
+    <subject>
+      <hierarchicalGeographic>
+        <country>United States</country>
+        <state>District of Columbia</state>
+        <city>Washington</city>
+      </hierarchicalGeographic>
+    </subject>
+    <classification authority="lcc">PN2093 .C64 1995 no. G132</classification>
+    <relatedItem>
+      <titleInfo>
+        <title>Gone with the wind</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mitchell, Margaret,</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+    </relatedItem>
+    <identifier type="lccn">2010713222</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">101122</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20101130123742.0</recordChangeDate>
+      <recordIdentifier>16549412</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Gone with the wind</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Gone with the wind (Motion picture)</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Fleming, Victor</namePart>
+      <namePart type="date">1883-1949</namePart>
+      <role>
+        <roleTerm type="text">direction.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Selznick, David O.</namePart>
+      <namePart type="date">1902-1965</namePart>
+      <role>
+        <roleTerm type="text">production.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Howard, Sidney Coe</namePart>
+      <namePart type="date">1891-1939</namePart>
+      <role>
+        <roleTerm type="text">writing.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Steiner, Max</namePart>
+      <namePart type="date">1888-1971</namePart>
+      <role>
+        <roleTerm type="text">music.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Haller, Ernest</namePart>
+      <namePart type="date">1896-1970</namePart>
+      <role>
+        <roleTerm type="text">camera.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Gable, Clark</namePart>
+      <namePart type="date">1901-1960</namePart>
+      <role>
+        <roleTerm type="text">cast.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Leigh, Vivien</namePart>
+      <namePart type="date">1913-1967</namePart>
+      <role>
+        <roleTerm type="text">cast.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Howard, Leslie</namePart>
+      <namePart type="date">1893-1943</namePart>
+      <role>
+        <roleTerm type="text">cast.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>De Havilland, Olivia</namePart>
+      <role>
+        <roleTerm type="text">cast.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Mitchell, Thomas</namePart>
+      <namePart type="date">1892-1962</namePart>
+      <role>
+        <roleTerm type="text">cast.</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>McDaniel, Hattie</namePart>
+      <namePart type="date">1895-1952</namePart>
+      <role>
+        <roleTerm type="text">cast.</roleTerm>
+      </role>
+    </name>
+    <name type="corporate">
+      <namePart>Selznick International Pictures</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Metro-Goldwyn-Mayer</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Loew's Incorporated</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>MGM/UA Home Video (Firm)</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Turner Entertainment Co. Collection (Library of Congress)</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>LC Purchase Collection (Library of Congress)</namePart>
+    </name>
+    <typeOfResource>moving image</typeOfResource>
+    <genre authority="marc">videorecording</genre>
+    <genre authority="mim">Historical re-creations.</genre>
+    <genre authority="mim">Epics.</genre>
+    <genre authority="gmgpc">Videodiscs.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">xxu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">United States</placeTerm>
+      </place>
+      <publisher>MGM/UA Home Video</publisher>
+      <dateIssued>1989</dateIssued>
+      <edition>50th anniversary edition.</edition>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <extent>2 videocassettes of 2 (VHS) (ca. 240 min.) : sd., col. ; 1/2 in. viewing copy.</extent>
+      <extent>2 videodiscs of 2 (laser) (ca. 240 min.) : sd., col. ; 12 in. viewing copy.</extent>
+    </physicalDescription>
+    <abstract>Focuses on the life and loves of the beautiful and selfish Scarlett O'Hara. The story begins on the O'Hara's Georgia plantation of Tara in antebellum days and moves through the Civil War and Reconstruction.</abstract>
+    <note type="statement of responsibility">Selznick International in association with Metro-Goldwyn-Mayer ; directed by Victor Fleming ; produced by David O. Selznick ; screenplay by Sidney Howard.</note>
+    <note>Copyright notice on videocassette copy: MGM/UA Home Video ; 1989.</note>
+    <note>Originally released in 1939. The 1989 release is described as the new digitally remastered edition.</note>
+    <note>Videocassette copy only contains excerpts from the documentary, The making of a legend: Gone with the wind, following the feature.</note>
+    <note>Videodisc copy has two discs in one jacket.</note>
+    <note>On disc labels and jacket: MGM/UA ML 101678.</note>
+    <note>Based on the book by Margaret Mitchell.</note>
+    <note>Sources used: New York times, 1/29/89; M/B/RS Descriptions files.</note>
+    <note type="performers">Clark Gable, Vivien Leigh, Leslie Howard, Olivia de Havilland, Thomas Mitchell, Hattie McDaniel, Butterfly McQueen.</note>
+    <note>Musical score by Max Steiner ; photographed by Ernest Haller ; production designed by William Cameron Menzies ; art direction by Lyle Wheeler.</note>
+    <note>Received: 11/15/89; 1/2 in. viewing copy; gift; Turner Entertainment Co. Collection.</note>
+    <note>Received: ca. 1991; 12 in. viewing copy; purchase; LC Purchase Collection.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-usu--</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Plantation life</topic>
+      <topic>Drama</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>O'Hara, Scarlett (Fictitious character)</topic>
+      <topic>Drama</topic>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>United States</geographic>
+      <topic>History</topic>
+      <temporal>Civil War, 1861-1865</temporal>
+      <topic>Drama</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Reconstruction (U.S. history, 1865-1877)</topic>
+      <topic>Drama</topic>
+    </subject>
+    <classification authority="lcc">VAB 1799-1800 (viewing copy)</classification>
+    <classification authority="lcc">DAA 2027 (viewing copy)</classification>
+    <relatedItem>
+      <titleInfo>
+        <title>Gone with the wind</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mitchell, Margaret,</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+    </relatedItem>
+    <identifier type="lccn">93503196</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">930309</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20040727140536.0</recordChangeDate>
+      <recordIdentifier>11615377</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Origins to Constantine</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Mitchell, Margaret Mary</namePart>
+      <namePart type="date">1956-</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Young, Frances M. (Frances Margaret)</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Bowie, K. Scott.</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>Cambridge University Press</publisher>
+      <dateIssued>2006</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xlv, 740 p. : ill., maps ; 24 cm.</extent>
+    </physicalDescription>
+    <tableOfContents>The political, social, and religious setting -- The Jesus movements -- Community traditions and self-definition -- Regional varieties of Christianity in the first three centuries -- The shaping of Christian theology -- 'Aliens' become citizens : towards imperial patronage.</tableOfContents>
+    <note type="statement of responsibility">edited by Margaret M. Mitchell and Frances M. Young ; assistant editor, K. Scott Bowie.</note>
+    <note>Includes bibliographical references (p. 590-682) and index.</note>
+    <subject>
+      <geographicCode authority="marcgac">e------</geographicCode>
+      <geographicCode authority="marcgac">aw-----</geographicCode>
+      <geographicCode authority="marcgac">ff-----</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Church history</topic>
+      <temporal>Primitive and early church, ca. 30-600</temporal>
+    </subject>
+    <classification authority="lcc">BR165 .O66 2006</classification>
+    <classification authority="ddc" edition="22">270.1</classification>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Cambridge history of Christianity ; v. 1</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="isbn">0521812399</identifier>
+    <identifier type="isbn">9780521812399</identifier>
+    <identifier type="lccn">2005012926</identifier>
+    <identifier type="uri">http://www.loc.gov/catdir/toc/ecip0512/2005012926.html</identifier>
+    <identifier type="uri">http://www.loc.gov/catdir/enhancements/fy0659/2005012926-d.html</identifier>
+    <identifier type="uri">http://www.loc.gov/catdir/enhancements/fy0732/2005012926-b.html</identifier>
+    <location>
+      <url displayLabel="Table of contents only">http://www.loc.gov/catdir/toc/ecip0512/2005012926.html</url>
+    </location>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0659/2005012926-d.html</url>
+    </location>
+    <location>
+      <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0732/2005012926-b.html</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">050505</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20100910144303.0</recordChangeDate>
+      <recordIdentifier>13953362</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Library and museum catalogue</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>British Optical Association</namePart>
+      <namePart>Library.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Sutcliffe, John Hamer</namePart>
+      <namePart type="date">1867-</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Mitchell, Margaret.</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Chittell, Edith.</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>British Optical Association</namePart>
+      <namePart>Museum.</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">catalog</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>The Council of the British optical association</publisher>
+      <dateIssued>1932</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xv, 335 p. illus., 75 pl. (incl. ports.) on 38 l., facsim. 25.5 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">compiled and edited by John H. Sutcliffe ; assisted by Margaret Mitchell ... [and] Edith Chittell.</note>
+    <note>At head of title: British optical association.</note>
+    <subject authority="lcsh">
+      <topic>Optics</topic>
+      <topic>Bibliography</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Eyeglasses</topic>
+      <topic>Catalogs</topic>
+    </subject>
+    <classification authority="lcc">Z7144.O6 B8</classification>
+    <classification authority="ddc">016.535</classification>
+    <identifier type="lccn">33011491</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">760416</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20070614131457.0</recordChangeDate>
+      <recordIdentifier>7820110</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>private diary of Scarlett O'Hara</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Crimmins, C. E.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Maeder, Thomas.</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">cau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">West Hollywood, CA</placeTerm>
+      </place>
+      <publisher>Dove Books</publisher>
+      <publisher>Distributed by Penguin USA</publisher>
+      <dateIssued>1996</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>96 p. ; 19 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">by Cathy Crimmins and Tom Maeder.</note>
+    <subject authority="lcsh">
+      <topic>O'Hara, Scarlett (Fictitious character)</topic>
+      <topic>Humor</topic>
+    </subject>
+    <subject authority="lcsh">
+      <name type="personal">
+        <namePart>Mitchell, Margaret</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+      <topic>Parodies, imitations, etc</topic>
+    </subject>
+    <classification authority="lcc">PS3525.I972 G682 1996</classification>
+    <classification authority="ddc" edition="21">813/.54</classification>
+    <relatedItem>
+      <titleInfo>
+        <title>Gone with the wind</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mitchell, Margaret,</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+    </relatedItem>
+    <identifier type="isbn">078710728X</identifier>
+    <identifier type="lccn">96175577</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCl</recordContentSource>
+      <recordCreationDate encoding="marc">960724</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19980205114415.8</recordChangeDate>
+      <recordIdentifier>3062341</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Concerto, for piano and orchestra, in A minor, op. 16</title>
+      <subTitle>[Sound recording]</subTitle>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Concerto, piano, op. 16, A minor. [from old catalog]</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Grieg, Edvard</namePart>
+      <namePart type="date">1843-1907</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Mitchell, Margaret</namePart>
+      <namePart type="termsOfAddress">pianist. [from old catalog]</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Strickland, William. [from old catalog]</namePart>
+    </name>
+    <name type="corporate">
+      <namePart>Music Treasures Philharmonic Symphony. [from old catalog]</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">xx</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">n.p.]</placeTerm>
+      </place>
+      <publisher>Music Treasures of the World MT 30. [1955]</publisher>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>p. 1 s. 12 in. 33 1/3 rpm. microgroove.</extent>
+    </physicalDescription>
+    <note>Margaret Mitchell, piano; Music Treasures Philharmonic Symphony; William Strickland, conductor.</note>
+    <note>With: Debussy, Claude. La mer.</note>
+    <subject authority="lcsh">
+      <topic>Concertos (Piano)</topic>
+    </subject>
+    <identifier type="lccn">r 55000693</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">860530</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20071025184839.0</recordChangeDate>
+      <recordIdentifier>9796994</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Gone with the wind, the screenplay</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>Gone with the wind (Motion picture)</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Howard, Sidney Coe</namePart>
+      <namePart type="date">1891-1939</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Bridges, Herb</namePart>
+      <namePart type="date">1928-</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Boodman, Terryl C.</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York, N.Y</placeTerm>
+      </place>
+      <publisher>Delta</publisher>
+      <dateIssued>c1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>262 p., [16] p. of plates : ill. ; 24 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Sidney Howard ; based on the novel by Margaret Mitchell ; edited and with an introduction by Herb Bridges and Terryl C. Boodman.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>United States</geographic>
+      <topic>History</topic>
+      <temporal>Civil War, 1861-1865</temporal>
+      <topic>Drama</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>O'Hara, Scarlett (Fictitious character)</topic>
+      <topic>Drama</topic>
+    </subject>
+    <classification authority="lcc">PN1997 .G588 1989</classification>
+    <classification authority="ddc" edition="20">791.43/72</classification>
+    <relatedItem>
+      <titleInfo>
+        <title>Gone with the wind</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mitchell, Margaret,</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+    </relatedItem>
+    <identifier type="isbn">0385298331 :</identifier>
+    <identifier type="lccn">89011713</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">890508</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20040316132852.0</recordChangeDate>
+      <recordIdentifier>4343873</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Remembering Margaret Mitchell, author of Gone with the wind</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Love, Lucille Thompson.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Kozuch, Mary Ellen DeBarbieri.</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Davidson, Linda Bourgeois.</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Mitchell, Margaret</namePart>
+      <namePart type="date">1900-1949</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Busey, Lucille Alladio</namePart>
+      <namePart type="date">1894-1971</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">biography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">alu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Huntsville, AL</placeTerm>
+      </place>
+      <publisher>Ellen Ross Publishers</publisher>
+      <dateIssued>1992</dateIssued>
+      <edition>1st ed.</edition>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>188 p. : ill. ; 29 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Lucille Thompson Love, Mary Ellen DeBarbieri Kozuch, Linda Bourgeois Davidson.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <name type="personal">
+        <namePart>Mitchell, Margaret</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+      <topic>Correspondence</topic>
+    </subject>
+    <subject authority="lcsh">
+      <name type="personal">
+        <namePart>Busey, Lucille Alladio</namePart>
+        <namePart type="date">1894-1971</namePart>
+      </name>
+      <topic>Correspondence</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Novelists, American</topic>
+      <temporal>20th century</temporal>
+      <topic>Correspondence</topic>
+    </subject>
+    <subject authority="lcsh">
+      <name type="personal">
+        <namePart>Mitchell, Margaret</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+      <topic>Manuscripts</topic>
+      <topic>Facsimiles</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>O'Hara, Scarlett (Fictitious character)</topic>
+    </subject>
+    <classification authority="lcc">PS3525.I972 Z479 1992</classification>
+    <identifier type="isbn">0963424505</identifier>
+    <identifier type="lccn">94155376</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">GU</recordContentSource>
+      <recordCreationDate encoding="marc">940506</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20040316133008.0</recordChangeDate>
+      <recordIdentifier>3494452</recordIdentifier>
+    </recordInfo>
+  </mods>
+  <mods version="3.0">
+    <titleInfo>
+      <title>Rhett Butler's people</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>McCaig, Donald.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">meu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Waterville, Me</placeTerm>
+      </place>
+      <publisher>Wheeler Pub.</publisher>
+      <dateIssued>2008</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <extent>799 p. ; 23 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Donald McCaig.</note>
+    <note>Based on Margaret Mitchell's Gone with the wind.</note>
+    <subject>
+      <geographicCode authority="marcgac">n-us-sc</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>South Carolina</geographic>
+      <topic>Fiction</topic>
+    </subject>
+    <subject authority="lcsh">
+      <geographic>United States</geographic>
+      <topic>History</topic>
+      <temporal>1815-1861</temporal>
+      <topic>Fiction</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Large type books</topic>
+    </subject>
+    <classification authority="lcc">PS3563.A2555 R48 2008</classification>
+    <classification authority="ddc" edition="22">813/.54</classification>
+    <relatedItem>
+      <titleInfo>
+        <title>Gone with the wind</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mitchell, Margaret,</namePart>
+        <namePart type="date">1900-1949</namePart>
+      </name>
+    </relatedItem>
+    <identifier type="isbn">9781597226813 (hbk : alk. paper)</identifier>
+    <identifier type="isbn">1597226815 (hbk : alk. paper)</identifier>
+    <identifier type="lccn">2007044803</identifier>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">071029</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20080429152619.0</recordChangeDate>
+      <recordIdentifier>15061873</recordIdentifier>
+    </recordInfo>
+  </mods>
+</modsCollection>
