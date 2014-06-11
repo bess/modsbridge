@@ -16,7 +16,35 @@ This curriculum will use the [ruby][ruby] programming language, and the [MODS ge
 
 ## Lessons ##
 
-### 1. [Make a MODS object](/lessons/lesson1/lesson1.md)
+### 1. [Make and test a MODS object](/lessons/lesson1/lesson1.md)
+	- read in a MODS record from an XML file
+	- run tests against it
+	- write basic queries, understand MODS structure
+	- intro to the MODS ruby library
 
-### 2. Test your object
+### 2. [Add a language code](/lessons/lesson2/lesson2.md)
+	- write a test for whether a MODS record has a language code
+	- add a language code to a record where it is missing
+
+Future lessons:
+
+### 3. Exporting MaRC into MODS:
+	- Character encoding: utf8 vs marc8 for marc to mods transformations
+
+### 4. Checking for required fields:
+	- which fields are required for your local practice? 
+	- test for core set
+	- add new required field, including tests
+	
+### 5. Authority and Linked Data:
+	- VIAF: testing that authority exists & is valid
+	- Adding subjects for LoC linked data
+	
+### 6. Augmenting records with authority
+	- Start with a record that has string names
+		- look up the name
+			- if it's an exact match, add a link
+			- if it's not an exact match, do disambiguation
+			- skip if it already has a link
+			(over time you could use this to clean up authority for a set of records)
 
